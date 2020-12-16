@@ -13,4 +13,5 @@ products:
   - K8s
   - Azure CLI
   - Azure PowerShell
-description: "This repository contains code used to deploy containers on Azure Web Apps and AKS"
+  
+- Description: "This repository contains code used to deploy containers on Azure Web Apps and AKS"
